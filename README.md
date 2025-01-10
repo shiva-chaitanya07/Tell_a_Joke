@@ -2,56 +2,29 @@
 
 [Live Demo](https://tell-a-joke.vercel.app/)
 
-A fun and simple web application that delivers jokes to brighten your day! Built with modern web technologies and hosted on Vercel, this project ensures a seamless and entertaining user experience.
+A fun and interactive web application that delivers random jokes to brighten your day! Built using **HTML**, **CSS**, and **JavaScript**, this project showcases a clean UI and responsive design.
+
+---
 
 ## Features
 
 - 🎉 Random joke generation with a single click.
-- 💬 Clean and responsive UI for all devices.
-- 🚀 Lightning-fast performance thanks to Vercel hosting.
+- 📱 Fully responsive design for all devices.
+- 🌐 Fast and lightweight—built using vanilla web technologies.
+
+---
 
 ## Tech Stack
 
-- **Frontend:** React.js, HTML, CSS
-- **Hosting:** Vercel
+- **HTML**: Structure of the app.
+- **CSS**: Styling and layout.
+- **JavaScript**: Logic for joke generation.
+
+---
 
 ## Getting Started
 
-### Prerequisites
-- Git for version control.
-- A basic understanding of React.js.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/shiva-chaitanya07/Tell_a_Joke.git
-2. Navigate to the project directory:
-    ```bash
-      cd Tell_a_Joke
-3. Install dependencies:
-    ```bash
-
-npm install
-Start the development server:
-bash
-Copy code
-npm start
-Open your browser and visit http://localhost:3000 to see the app in action!
-
-Deployment
-This app is hosted on Vercel. To deploy your own version:
-
-Fork the repository.
-Link it to your Vercel account.
-Push your changes to the main branch—Vercel automatically deploys updates.
-Contribution
-Contributions are welcome! If you have ideas to improve this project:
-
-Fork the repo.
-Create a new branch: git checkout -b feature/YourFeature.
-Commit your changes: git commit -m "Add YourFeature".
-Push to the branch: git push origin feature/YourFeature.
-Open a pull request.
-License
-This project is open-source and available under the MIT License.
+### Clone the Repository
+To get a local copy of the project up and running:
+```bash
+git clone https://github.com/shiva-chaitanya07/Tell_a_Joke.git
